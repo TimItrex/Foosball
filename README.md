@@ -1,8 +1,8 @@
 # Foosball
 
-Technologies: 
-MVVM
-Dagger2
-Navigation components
-Rxjava2
-Unit tests
+Technologies: <br/>
+MVVM <br/>
+Dagger2 <br/>
+Navigation components <br/>
+Rxjava2 <br/>
+Unit tests <br/>
