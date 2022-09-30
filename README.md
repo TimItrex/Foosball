@@ -1,6 +1,6 @@
 # Foosball
 
-Technologies: <br/>
+**Technologies:** <br/>
 MVVM <br/>
 Dagger2 <br/>
 Navigation components <br/>
